@@ -1,0 +1,39 @@
+@font-face {
+        font-family: Bebas;
+        src: url(../fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+        font-family: Lato;
+        src: url(../fonts/Lato/Lato-Regular.ttf);
+}
+
+@font-face {
+        font-family: Montserrat;
+        src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+        font-family: Nunito;
+        src: url(../fonts/Nunito/Nunito-VariableFont_wght.ttf);
+}
+
+@font-face {
+        font-family: Paytone;
+        src: url(../fonts/Paytone_One/PaytoneOne-Regular.ttf);
+}
+
+@font-face {
+        font-family: Poppins;
+        src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+        font-family: Roboto;
+        src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+        font-family: Kathen;
+        src: url(../fonts/kathen.otf);
+}
